@@ -1,4 +1,4 @@
-nav ul{
+nav >ul{
     display: flex;
    
 }
@@ -14,5 +14,34 @@ nav li :hover{
     color: white;
 
 }
+nav li a{
+    text-decoration: none;
+}
+
+td, th {
+    border: solid black 2px;
+    padding: 10px 15px;
+    
+    
+}
+table{
+    border-collapse: collapse;
+    margin: 10px;
+}
 
 
+
+
+label{
+    display: block;
+    padding: 10px;
+
+    
+}
+
+input{
+    align-items: center;
+}
+fieldset{
+    margin: 20px 10px 10px 20px;
+}
