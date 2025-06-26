@@ -129,6 +129,9 @@ form .pass-link a:hover,
 form .signup-link a:hover{
   text-decoration: underline;
 }
+
+/* this is the navber */
+
 .container{
   /* width: 100%; */
   /* height: 100vh; */
