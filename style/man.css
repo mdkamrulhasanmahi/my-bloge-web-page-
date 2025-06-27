@@ -1,0 +1,16 @@
+.mahi{
+    background-color: gold;
+    padding: 100px;
+    display: flex;
+}
+
+
+
+.hasan{
+    padding: 25px;
+    background-color: aqua;
+    border: solid red 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+    /* padding-inline-start: 2px; */
+}
